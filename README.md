@@ -221,3 +221,16 @@ That’s it! You’re all set to start building amazing GUIs with Easy GUI. Whet
 --- 
 
 **Easy GUI** – Making GUI development easy, one widget at a time. 🎨✨
+
+--- 
+
+![desert oasis](https://github.com/user-attachments/assets/893d8a08-9be8-47dd-9889-f33003ce7af4)
+![cosmic night](https://github.com/user-attachments/assets/73722e21-a16c-45c9-a11b-ad8288442baa)
+![forest deapth](https://github.com/user-attachments/assets/ff7c0097-fdf7-4c91-9495-6191d0920fb9)
+![nordic frost](https://github.com/user-attachments/assets/0ec639ab-7c97-428b-a6fc-e55e7682b115)
+![pastel pink](https://github.com/user-attachments/assets/4b365ff7-6c8f-47b1-846b-f5afc112aee6)
+![material dark](https://github.com/user-attachments/assets/9053d8eb-9c2b-4506-b4a7-30f1889ed5f7)
+![flat ui light](https://github.com/user-attachments/assets/4016967d-966e-4baa-b8f5-cf27c4d51690)
+![ocean dark ui](https://github.com/user-attachments/assets/86e04eaa-d9b6-4a00-b6af-9da07874c38b)
+![ocean breeze](https://github.com/user-attachments/assets/501d340b-9268-4d76-b1d0-df191740e584)
+
